@@ -1,13 +1,13 @@
 Name: Advanced Sitemap
 AntiForgery: enabled
-Author: WebAdvanced
+Author: WebAdvanced rebuild by Donald Boulton
 Website: https://github.com/webadvanced/Orchard-SiteMap/wiki
-Version: 1.6.0
-OrchardVersion: 1.7
+Version: 1.10
+OrchardVersion: 1.10
 Description: Provides a highly configurable XML and HTML sitemap.
 Features:
     WebAdvanced.Sitemap:
         Description: Provides a highly configurable XML and HTML sitemap.
 		Name: Advanced Sitemap
 		Category: Navigation
-        Dependencies: Orchard.jQuery
+        Dependencies: Orchard.Resources
